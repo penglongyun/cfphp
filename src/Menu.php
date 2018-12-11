@@ -3,7 +3,7 @@
 namespace penglongyun\cfphp;
 
 
-class Test
+class Menu
 {
   public $name;
   
