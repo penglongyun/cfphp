@@ -1,0 +1,13 @@
+{
+    "name": "penglongyun/cfphp",
+    "description": "cfphp package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Pengly",
+            "email": "1052875477@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
